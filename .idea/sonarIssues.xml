@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/BackgroundServices/GetNews.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/BackgroundServices/GetNewsMore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/BlurBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/Function1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/GlideLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/ImageFullScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/Interfaces/NewsInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/Interfaces/Volley.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/NewsModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/NoInternet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/SlidePageAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/SplashScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/Util/PrefManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/Util/VolleySingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/VerticalViewPager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/briflynews/WebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_in_up.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_out_up.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_image_full_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_web_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/card_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/footer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/java/com/jayaraj/hime/ui/AddProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/java/com/jayaraj/hime/ui/SplashScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/java/com/jayaraj/hime/ui/chat/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/java/com/jayaraj/hime/ui/chat/ImageFullScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMe/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/DashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/fragments/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/profile/ProfileEditActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/activities/RegisterActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/activities/ResetPasswordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/activities/SettingsScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/apiservices/APIService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatRoomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/chat/FriendsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/chat/ImageFullScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/chat/MessagesListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/connections/ConnectionsDetailView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/hospital/ViewHospitalsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/patients/ViewPatientsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/procedures/ViewProceduresActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/utils/BlurBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/utils/GlideLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/utils/MDConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/java/com/melhealth/meldoc/utils/WebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/res/layout/activity_view_procedures.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/res/layout/activity_web_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../androidapp/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/InShorts-master/InShorts-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/adapters/SlidePageAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/backgroundServices/GetNews.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/interfaces/APIService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/interfaces/NewsInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/model/NewsModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/ui/WebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/ui/dashboard/NewsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/util/BlurBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/util/GlideLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/util/NoInternet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/java/com/jayaraj/hime/util/VerticalViewPager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/layout/activity_web_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/layout/card_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/layout/footer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/layout/fragment_news.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/layout/header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jay/HiMe/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+
+e
+java:S1192Ã"IDefine a constant instead of duplicating this literal "bookmark" 3 times.(äÖ‡úÿÿÿÿ
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¸‚¡
+m
+java:S1192È"QDefine a constant instead of duplicating this literal "bookmark_outline" 3 times.(Æè”Áøÿÿÿÿ
+^
+java:S2259c"CA "NullPointerException" could be thrown; "mDate" is nullable here.(£¥Âİıÿÿÿÿ
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(à´Ú¶üÿÿÿÿ

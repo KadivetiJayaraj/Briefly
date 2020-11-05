@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="layoutText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/marginTop</item>
+        <item name="android:layout_marginStart" tools:targetApi="jelly_bean_mr1">
+            @dimen/marginStart
+        </item>
+        <item name="android:layout_marginEnd" tools:targetApi="jelly_bean_mr1">@dimen/marginEnd
+        </item>
+    </style>
+
+    <style name="Toolbar_Popup" parent="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+    <style name="Toolbar" parent="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+</resources>

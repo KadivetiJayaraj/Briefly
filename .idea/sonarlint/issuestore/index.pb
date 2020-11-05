@@ -1,0 +1,21 @@
+
+f
+6app/src/main/java/com/briflynews/SlidePageAdapter.java,d\4\d47fcfa93a25285e7b2c2ddabd8d7ac5af36c739
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+a
+1app/src/main/java/com/briflynews/BlurBuilder.java,2\e\2e6a42373d1ad49962142fa36f7d288cf87293f9
+a
+1app/src/main/java/com/briflynews/GlideLoader.java,b\2\b2b5bdf2f58a8bb2670ee824f89eceda6efdac0e
+g
+7app/src/main/java/com/briflynews/VerticalViewPager.java,e\a\ead59457702bc9f70d28b31e5aac3e9f1895c26a
+n
+>app/src/main/java/com/briflynews/Interfaces/NewsInterface.java,1\d\1dc3a69ca8eebfe57c49337607ac4b2c8728d8a4
+e
+5app/src/main/java/com/briflynews/WebViewActivity.java,b\7\b7cf03768d440219679f3cba0b2777367bc15188
+`
+0app/src/main/java/com/briflynews/NoInternet.java,a\b\ab465a930e6cf55f735e377db51ee466d99143c4
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+b
+2app/src/main/java/com/briflynews/MainActivity.java,e\2\e286ce12eb2b4efb1d4d803731c2c8029cbe250a
